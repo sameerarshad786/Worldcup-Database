@@ -1,1 +1,1 @@
-# Worldcup-Database
+freecodecamp Worldcup Database certification project
